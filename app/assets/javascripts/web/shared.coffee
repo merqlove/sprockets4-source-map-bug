@@ -1,0 +1,3 @@
+exports = this
+
+exports.web = {}
